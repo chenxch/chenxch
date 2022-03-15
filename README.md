@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to be an open source author.
 
-### Respect to antfu.
+### Respect to [antfu](https://github.com/antfu)👍.
 
 <!--
 **chenxch/chenxch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
