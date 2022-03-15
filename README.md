@@ -2,7 +2,10 @@
 
 ### 👋 Hi there, I'm Xc
 
-- 🌱 I’m currently learning how to be an open source author
+- 🌱 I’m currently learning how to be an open source author.
+
+### Respect to antfu.
+
 <!--
 **chenxch/chenxch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
