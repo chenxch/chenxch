@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Xc
 
-- 🌱 I’m currently learning how to be an open source author.
+#### Leave something
 
 ### Respect to [antfu](https://github.com/antfu)👍.
 
