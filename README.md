@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Xc.
     
-#### Leave something.  
+#### Leave something.   
 
 ### Respect to [antfu](https://github.com/antfu)👍.
  
