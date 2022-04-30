@@ -10,8 +10,8 @@
 
 #### Project
 
-1.[vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) : Recorded in [awesome-vite](https://github.com/vitejs/awesome-vite/blob/master/README.md). <br/>
-2.[demi-axios](https://github.com/chenxch/demi-axios) : vue2/vue3 axios hooks.
+- [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) : Recorded in [awesome-vite](https://github.com/vitejs/awesome-vite/blob/master/README.md). <br/>
+- [demi-axios](https://github.com/chenxch/demi-axios) : vue2/vue3 axios hooks.
  
 
  
