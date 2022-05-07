@@ -1,6 +1,15 @@
 <img src="https://github-stats.liuli.lol/api?username=chenxch&theme=vue&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 ### 👋 Hi there, I'm [Xc](https://chenxch.github.io/).
+  <a href="https://github.com/chenxch/chenxch">
+    <img src="https://komarev.com/ghpvc/?username=chenxch" alt="page views" />
+  </a>
+  <a href="https://github.com/chenxch?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/chenxch?color=Cyan&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
              
 #### Leave something.         
   
