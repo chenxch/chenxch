@@ -11,7 +11,7 @@
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a> 
                   
-#### Leave something.               
+#### Leave something.                
   
 ### Respect to [antfu](https://github.com/antfu)👍. 
      
