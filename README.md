@@ -24,7 +24,7 @@
  
 
  
-[赞助/sponsor](https://raw.githubusercontent.com/chenxch/pic-image/master/20220429/1651201876531.4f70jn93siw0.webp)
+[赞助/sponsor](https://cdn.staticaly.com/gh/chenxch/pic-image@master/20221026/1666791805873.30bhic398gu0.webp)
 <!--
 **chenxch/chenxch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
