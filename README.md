@@ -24,7 +24,7 @@
  
 
  
-<!-- [赞助/sponsor](https://cdn.staticaly.com/gh/chenxch/pic-image@master/20221026/1666791805873.30bhic398gu0.webp) -->
+[赞助/sponsor]([https://cdn.staticaly.com/gh/chenxch/pic-image@master/20221026/1666791805873.30bhic398gu0.webp](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f33c85fb5aad4a2a8ebe929b0930bb45~tplv-k3u1fbpfcp-watermark.image?))
 <!--
 **chenxch/chenxch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
